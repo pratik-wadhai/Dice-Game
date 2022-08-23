@@ -1,1 +1,1 @@
-# Dice-Game
+# JavaScript - Dice-Game
